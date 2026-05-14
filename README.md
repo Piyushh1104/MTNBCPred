@@ -30,7 +30,7 @@ Unlike other breast cancer types, TNBC lacks:
 
 Because of this, early prediction of lymph node metastasis becomes critically important for treatment planning and survival improvement.
 
-:contentReference[oaicite:0]{index=0}
+
 
 ---
 
@@ -44,7 +44,6 @@ The major objectives of this work were:
 - Perform prognostic survival analysis
 - Develop a publicly accessible prediction server
 
-:contentReference[oaicite:1]{index=1}
 
 ---
 

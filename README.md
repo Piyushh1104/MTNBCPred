@@ -10,6 +10,7 @@ The study focuses on identifying diagnostic biomarkers capable of distinguishing
 - Non-metastatic TNBC patients
 
 The system uses transcriptomic signatures along with machine learning techniques for prediction and prognostic assessment.
+https://doi.org/10.5281/zenodo.20196235
 
 ---
 
